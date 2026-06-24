@@ -1,6 +1,6 @@
 # sc-module-parser
 
-[<img src="https://flagcdn.com/16x12/gb.png" width="16" height="12" alt="English"> English](C:/Users/nockieeteru/Desktop/sc-parser/README.md) | <img src="https://flagcdn.com/16x12/ru.png" width="16" height="12" alt="Русский"> **Русский**
+[<img src="https://flagcdn.com/16x12/gb.png" width="16" height="12" alt="English"> English](https://github.com/nockiee/sc-module-parser/blob/main/README.md) | <img src="https://flagcdn.com/16x12/ru.png" width="16" height="12" alt="Русский"> **Русский**
 
 `sc-module-parser` — утилита для определения позиции пользователя в списках SoundCloud на основе публично доступных данных платформы.
 
