@@ -1,0 +1,13 @@
+{
+  "use_settings": false,
+  "debug": false,
+  "worker_threads": 1,
+  "request_delay_seconds": 0.0,
+  "save_user_list": false,
+  "save_user_list_filename": "accounts.txt",
+  "save_user_list_mode": "username",
+  "api": {
+    "host": "127.0.0.1",
+    "port": 8080
+  }
+}
